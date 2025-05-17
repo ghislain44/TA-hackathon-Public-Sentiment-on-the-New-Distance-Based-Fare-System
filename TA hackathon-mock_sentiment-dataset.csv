@@ -1,0 +1,16 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month
+0,0,"Spending less on short trips, finally!",Positive,2023-01-18 09:29:00,User0,Instagram,#CommuteStories #Transport,80,178,Kenya,2023,1
+1,1,I’m not sure how I feel about the fare change.,Neutral,2023-01-22 08:27:00,User1,Instagram,#KigaliCommute #BusTalk,44,122,Uganda,2023,1
+2,2,Why does my daily route cost more now?,Negative,2023-01-18 11:49:00,User2,Facebook,#CityTransit #RwandaMoves,27,145,Kenya,2023,1
+3,3,Great idea for long-distance commuters.,Positive,2023-01-17 19:56:00,User3,Twitter,#BusLife #DistanceFareModel,86,7,Uganda,2023,1
+4,4,Fare system needs better explanation.,Neutral,2023-01-16 22:57:00,User4,Facebook,#PublicTransit #FareChange,54,91,Uganda,2023,1
+5,5,Confusing fares! Miss the old days.,Negative,2023-01-22 08:46:00,User5,Twitter,#DistanceFare #RwandaTransport,40,105,Uganda,2023,1
+6,6,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-21 03:50:00,User6,Instagram,#CommuteStories #Transport,83,23,Uganda,2023,1
+7,7,This pricing is not fair for daily riders.,Negative,2023-01-21 17:27:00,User7,Instagram,#PublicTransit #FareChange,40,183,Kenya,2023,1
+8,8,People seem angry online. Something’s off.,Negative,2023-01-19 21:05:00,User8,Instagram,#DistanceFare #RwandaTransport,81,50,Uganda,2023,1
+9,9,Makes sense environmentally and economically.,Positive,2023-01-15 14:45:00,User9,Facebook,#KigaliCommute #BusTalk,58,156,Kenya,2023,1
+10,10,Why not just fix the buses first?,Negative,2023-01-16 15:52:00,User10,Facebook,#DistanceFare #RwandaTransport,94,77,Kenya,2023,1
+11,11,Much better system than before!,Positive,2023-01-17 17:58:00,User11,Instagram,#PublicTransit #FareChange,88,153,Rwanda,2023,1
+12,12,"So far, it's okay. Let's see long-term.",Neutral,2023-01-22 04:56:00,User12,Instagram,#CommuteStories #Transport,69,153,Uganda,2023,1
+13,13,The fare increased again? Not cool.,Negative,2023-01-18 03:20:00,User13,Twitter,#PublicTransit #FareChange,9,94,Kenya,2023,1
+14,14,I love paying based on distance!,Positive,2023-01-16 07:04:00,User14,Instagram,#CommuteStories #Transport,75,25,Uganda,2023,1
