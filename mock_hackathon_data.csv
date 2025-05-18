@@ -1,0 +1,501 @@
+Unnamed: 0.1,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Year,Month,Region
+0,0,I’m not sure how I feel about the fare change.,Negative,2023-01-27 15:20:00,User0,Twitter,#DistanceFare #RwandaTransport,61,150,2023,1,Ngoma
+1,1,"Spending less on short trips, finally!",Positive,2023-01-20 20:06:00,User1,Facebook,#DistanceFare #RwandaTransport,24,21,2023,1,Rusizi
+2,2,Fare system needs better explanation.,Negative,2023-01-29 21:21:00,User2,Facebook,#CommuteStories #Transport,81,104,2023,1,Huye
+3,3,Great idea for long-distance commuters.,Positive,2023-01-23 09:05:00,User3,Instagram,#PublicTransit #FareChange,70,55,2023,1,Huye
+4,4,Great idea for long-distance commuters.,Neutral,2023-01-05 03:39:00,User4,Twitter,#DistanceFare #RwandaTransport,30,139,2023,1,Ngoma
+5,5,Why does my daily route cost more now?,Negative,2023-01-22 09:22:00,User5,Twitter,#CityTransit #RwandaMoves,92,44,2023,1,Rwamagana
+6,6,I’m not sure how I feel about the fare change.,Negative,2023-01-16 20:03:00,User6,Instagram,#KigaliCommute #BusTalk,96,90,2023,1,Ngoma
+7,7,Enjoying my commute again!,Negative,2023-01-19 14:01:00,User7,Instagram,#CommuteStories #Transport,84,99,2023,1,Huye
+8,8,I’m not sure how I feel about the fare change.,Negative,2023-01-16 04:03:00,User8,Twitter,#CityTransit #RwandaMoves,84,17,2023,1,Ngoma
+9,9,New fare structure is a relief for some routes.,Neutral,2023-01-15 14:40:00,User9,Facebook,#PublicTransit #FareChange,97,102,2023,1,Ngoma
+10,10,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-31 11:57:00,User10,Instagram,#CityTransit #RwandaMoves,33,163,2023,1,Huye
+11,11,"Spending less on short trips, finally!",Positive,2023-01-05 18:15:00,User11,Instagram,#DistanceFare #RwandaTransport,12,99,2023,1,Rusizi
+12,12,"Spending less on short trips, finally!",Negative,2023-01-08 07:39:00,User12,Facebook,#KigaliCommute #BusTalk,31,171,2023,1,Rubavu
+13,13,I’m not sure how I feel about the fare change.,Neutral,2023-01-16 00:14:00,User13,Twitter,#DistanceFare #RwandaTransport,62,124,2023,1,Rusizi
+14,14,Great idea for long-distance commuters.,Positive,2023-01-19 17:37:00,User14,Facebook,#BusLife #DistanceFareModel,11,114,2023,1,Rubavu
+15,15,Great idea for long-distance commuters.,Positive,2023-01-23 13:11:00,User15,Instagram,#DistanceFare #RwandaTransport,97,144,2023,1,Rwamagana
+16,16,Enjoying my commute again!,Positive,2023-01-14 02:48:00,User16,Facebook,#BusLife #DistanceFareModel,39,67,2023,1,Ngoma
+17,17,New fare structure is a relief for some routes.,Positive,2023-01-31 03:43:00,User17,Twitter,#DistanceFare #RwandaTransport,47,123,2023,1,Ngoma
+18,18,"Spending less on short trips, finally!",Positive,2023-01-19 05:24:00,User18,Instagram,#KigaliCommute #BusTalk,11,84,2023,1,Gasabo
+19,19,Enjoying my commute again!,Positive,2023-01-26 00:51:00,User19,Facebook,#KigaliCommute #BusTalk,73,166,2023,1,Rwamagana
+20,20,Great idea for long-distance commuters.,Neutral,2023-01-02 16:04:00,User20,Twitter,#CommuteStories #Transport,69,129,2023,1,Musanze
+21,21,Enjoying my commute again!,Negative,2023-01-21 16:47:00,User21,Twitter,#DistanceFare #RwandaTransport,30,173,2023,1,Musanze
+22,22,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-05 00:11:00,User22,Twitter,#BusLife #DistanceFareModel,42,30,2023,1,Rubavu
+23,23,Great idea for long-distance commuters.,Neutral,2023-01-15 07:32:00,User23,Twitter,#CommuteStories #Transport,85,173,2023,1,Kicukiro
+24,24,This pricing is not fair for daily riders.,Neutral,2023-01-12 11:41:00,User24,Twitter,#CityTransit #RwandaMoves,67,147,2023,1,Ngoma
+25,25,New fare structure is a relief for some routes.,Negative,2023-01-15 17:06:00,User25,Twitter,#KigaliCommute #BusTalk,31,110,2023,1,Nyarugenge
+26,26,Fare system needs better explanation.,Negative,2023-01-06 06:37:00,User26,Instagram,#CommuteStories #Transport,98,161,2023,1,Ngoma
+27,27,"Spending less on short trips, finally!",Positive,2023-01-19 09:28:00,User27,Twitter,#KigaliCommute #BusTalk,58,186,2023,1,Gasabo
+28,28,Why does my daily route cost more now?,Negative,2023-01-24 10:04:00,User28,Twitter,#CommuteStories #Transport,68,108,2023,1,Rubavu
+29,29,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-01 01:15:00,User29,Twitter,#CityTransit #RwandaMoves,51,45,2023,1,Rusizi
+30,30,Confusing fares! Miss the old days.,Neutral,2023-01-30 22:20:00,User30,Facebook,#CityTransit #RwandaMoves,69,105,2023,1,Ngoma
+31,31,Fare system needs better explanation.,Neutral,2023-01-25 16:39:00,User31,Instagram,#PublicTransit #FareChange,89,161,2023,1,Rusizi
+32,32,Why does my daily route cost more now?,Neutral,2023-01-22 00:36:00,User32,Instagram,#BusLife #DistanceFareModel,24,160,2023,1,Huye
+33,33,Great idea for long-distance commuters.,Positive,2023-01-19 19:22:00,User33,Facebook,#PublicTransit #FareChange,71,199,2023,1,Huye
+34,34,Confusing fares! Miss the old days.,Positive,2023-01-03 11:12:00,User34,Twitter,#BusLife #DistanceFareModel,71,46,2023,1,Rwamagana
+35,35,I’m not sure how I feel about the fare change.,Negative,2023-01-09 12:53:00,User35,Facebook,#CityTransit #RwandaMoves,56,21,2023,1,Ngoma
+36,36,I’m not sure how I feel about the fare change.,Negative,2023-01-24 14:16:00,User36,Facebook,#CommuteStories #Transport,71,122,2023,1,Rwamagana
+37,37,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-17 11:09:00,User37,Facebook,#DistanceFare #RwandaTransport,60,192,2023,1,Ngoma
+38,38,I’m not sure how I feel about the fare change.,Positive,2023-01-29 08:04:00,User38,Instagram,#KigaliCommute #BusTalk,64,22,2023,1,Kicukiro
+39,39,Confusing fares! Miss the old days.,Neutral,2023-01-23 16:29:00,User39,Instagram,#CityTransit #RwandaMoves,73,32,2023,1,Gasabo
+40,40,Confusing fares! Miss the old days.,Positive,2023-01-29 11:06:00,User40,Instagram,#CityTransit #RwandaMoves,12,108,2023,1,Huye
+41,41,New fare structure is a relief for some routes.,Positive,2023-01-21 02:49:00,User41,Twitter,#CommuteStories #Transport,60,114,2023,1,Huye
+42,42,Fare system needs better explanation.,Negative,2023-01-03 08:22:00,User42,Twitter,#DistanceFare #RwandaTransport,16,39,2023,1,Nyarugenge
+43,43,"Spending less on short trips, finally!",Negative,2023-01-10 06:20:00,User43,Facebook,#CityTransit #RwandaMoves,30,26,2023,1,Rwamagana
+44,44,This pricing is not fair for daily riders.,Neutral,2023-01-13 03:41:00,User44,Instagram,#CityTransit #RwandaMoves,82,122,2023,1,Huye
+45,45,Enjoying my commute again!,Positive,2023-01-25 23:53:00,User45,Instagram,#CommuteStories #Transport,48,71,2023,1,Huye
+46,46,I’m not sure how I feel about the fare change.,Negative,2023-01-06 23:06:00,User46,Twitter,#CityTransit #RwandaMoves,27,93,2023,1,Nyarugenge
+47,47,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-14 02:36:00,User47,Twitter,#BusLife #DistanceFareModel,13,121,2023,1,Gasabo
+48,48,I’m not sure how I feel about the fare change.,Positive,2023-01-20 22:32:00,User48,Instagram,#BusLife #DistanceFareModel,98,95,2023,1,Musanze
+49,49,Enjoying my commute again!,Neutral,2023-01-23 01:26:00,User49,Instagram,#DistanceFare #RwandaTransport,69,150,2023,1,Rubavu
+50,50,Fare system needs better explanation.,Positive,2023-01-06 12:37:00,User50,Twitter,#BusLife #DistanceFareModel,23,196,2023,1,Rusizi
+51,51,New fare structure is a relief for some routes.,Neutral,2023-01-02 07:31:00,User51,Twitter,#BusLife #DistanceFareModel,18,28,2023,1,Gasabo
+52,52,Confusing fares! Miss the old days.,Negative,2023-01-29 16:09:00,User52,Instagram,#CityTransit #RwandaMoves,99,186,2023,1,Kicukiro
+53,53,New fare structure is a relief for some routes.,Negative,2023-01-28 17:03:00,User53,Facebook,#KigaliCommute #BusTalk,62,109,2023,1,Nyarugenge
+54,54,Great idea for long-distance commuters.,Negative,2023-01-11 21:22:00,User54,Facebook,#BusLife #DistanceFareModel,11,149,2023,1,Rwamagana
+55,55,I’m not sure how I feel about the fare change.,Negative,2023-01-08 04:59:00,User55,Facebook,#DistanceFare #RwandaTransport,93,198,2023,1,Kicukiro
+56,56,"Spending less on short trips, finally!",Neutral,2023-01-15 03:25:00,User56,Facebook,#BusLife #DistanceFareModel,69,156,2023,1,Musanze
+57,57,Great idea for long-distance commuters.,Neutral,2023-01-26 01:39:00,User57,Instagram,#CityTransit #RwandaMoves,80,85,2023,1,Rusizi
+58,58,Fare system needs better explanation.,Negative,2023-01-01 14:56:00,User58,Facebook,#PublicTransit #FareChange,53,18,2023,1,Rusizi
+59,59,I’m not sure how I feel about the fare change.,Negative,2023-01-26 03:12:00,User59,Facebook,#CityTransit #RwandaMoves,17,37,2023,1,Huye
+60,60,Great idea for long-distance commuters.,Negative,2023-01-19 13:38:00,User60,Twitter,#CommuteStories #Transport,56,137,2023,1,Ngoma
+61,61,I’m not sure how I feel about the fare change.,Neutral,2023-01-05 05:48:00,User61,Facebook,#DistanceFare #RwandaTransport,44,61,2023,1,Rubavu
+62,62,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-11 05:25:00,User62,Twitter,#BusLife #DistanceFareModel,87,92,2023,1,Ngoma
+63,63,Fare system needs better explanation.,Neutral,2023-01-06 03:55:00,User63,Twitter,#CommuteStories #Transport,90,120,2023,1,Nyarugenge
+64,64,This pricing is not fair for daily riders.,Positive,2023-01-22 00:01:00,User64,Instagram,#BusLife #DistanceFareModel,45,153,2023,1,Gasabo
+65,65,Confusing fares! Miss the old days.,Negative,2023-01-06 08:18:00,User65,Instagram,#PublicTransit #FareChange,59,126,2023,1,Huye
+66,66,Why does my daily route cost more now?,Neutral,2023-01-30 11:28:00,User66,Instagram,#KigaliCommute #BusTalk,13,78,2023,1,Rwamagana
+67,67,Confusing fares! Miss the old days.,Neutral,2023-01-08 00:10:00,User67,Instagram,#PublicTransit #FareChange,11,108,2023,1,Nyarugenge
+68,68,Confusing fares! Miss the old days.,Neutral,2023-01-23 16:21:00,User68,Twitter,#CityTransit #RwandaMoves,15,149,2023,1,Kicukiro
+69,69,Great idea for long-distance commuters.,Positive,2023-01-14 06:47:00,User69,Instagram,#CityTransit #RwandaMoves,63,34,2023,1,Musanze
+70,70,Fare system needs better explanation.,Negative,2023-01-24 03:49:00,User70,Twitter,#CommuteStories #Transport,13,189,2023,1,Kicukiro
+71,71,I’m not sure how I feel about the fare change.,Neutral,2023-01-13 10:39:00,User71,Instagram,#CommuteStories #Transport,63,132,2023,1,Nyarugenge
+72,72,New fare structure is a relief for some routes.,Negative,2023-01-19 21:49:00,User72,Facebook,#CityTransit #RwandaMoves,72,62,2023,1,Musanze
+73,73,Why does my daily route cost more now?,Neutral,2023-01-22 23:01:00,User73,Facebook,#DistanceFare #RwandaTransport,27,160,2023,1,Rusizi
+74,74,Enjoying my commute again!,Negative,2023-01-22 11:47:00,User74,Twitter,#CityTransit #RwandaMoves,99,153,2023,1,Kicukiro
+75,75,Great idea for long-distance commuters.,Positive,2023-01-12 02:13:00,User75,Facebook,#CityTransit #RwandaMoves,53,66,2023,1,Ngoma
+76,76,Why does my daily route cost more now?,Neutral,2023-01-21 18:55:00,User76,Facebook,#BusLife #DistanceFareModel,43,48,2023,1,Nyarugenge
+77,77,This pricing is not fair for daily riders.,Neutral,2023-01-26 02:07:00,User77,Twitter,#PublicTransit #FareChange,83,118,2023,1,Nyarugenge
+78,78,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-07 13:59:00,User78,Facebook,#DistanceFare #RwandaTransport,71,190,2023,1,Ngoma
+79,79,Fare system needs better explanation.,Negative,2023-01-18 10:58:00,User79,Facebook,#BusLife #DistanceFareModel,23,51,2023,1,Gasabo
+80,80,Enjoying my commute again!,Neutral,2023-01-09 16:11:00,User80,Facebook,#KigaliCommute #BusTalk,57,195,2023,1,Rubavu
+81,81,Great idea for long-distance commuters.,Positive,2023-01-28 06:40:00,User81,Instagram,#DistanceFare #RwandaTransport,24,176,2023,1,Ngoma
+82,82,Confusing fares! Miss the old days.,Neutral,2023-01-24 03:08:00,User82,Twitter,#BusLife #DistanceFareModel,81,151,2023,1,Rusizi
+83,83,"Spending less on short trips, finally!",Neutral,2023-01-07 05:06:00,User83,Instagram,#CityTransit #RwandaMoves,87,131,2023,1,Rwamagana
+84,84,Great idea for long-distance commuters.,Neutral,2023-01-04 04:15:00,User84,Facebook,#BusLife #DistanceFareModel,96,142,2023,1,Rwamagana
+85,85,"Spending less on short trips, finally!",Negative,2023-01-13 13:44:00,User85,Facebook,#CommuteStories #Transport,71,172,2023,1,Rusizi
+86,86,Confusing fares! Miss the old days.,Positive,2023-01-19 21:13:00,User86,Instagram,#DistanceFare #RwandaTransport,49,84,2023,1,Kicukiro
+87,87,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-16 11:14:00,User87,Facebook,#CityTransit #RwandaMoves,94,155,2023,1,Rwamagana
+88,88,Fare system needs better explanation.,Positive,2023-01-24 02:35:00,User88,Twitter,#PublicTransit #FareChange,89,85,2023,1,Rusizi
+89,89,I’m not sure how I feel about the fare change.,Positive,2023-01-13 03:49:00,User89,Twitter,#BusLife #DistanceFareModel,91,18,2023,1,Ngoma
+90,90,Great idea for long-distance commuters.,Neutral,2023-01-01 02:48:00,User90,Twitter,#CityTransit #RwandaMoves,62,83,2023,1,Huye
+91,91,New fare structure is a relief for some routes.,Negative,2023-01-13 20:56:00,User91,Facebook,#DistanceFare #RwandaTransport,33,195,2023,1,Gasabo
+92,92,Confusing fares! Miss the old days.,Positive,2023-01-14 14:06:00,User92,Twitter,#CommuteStories #Transport,35,154,2023,1,Rubavu
+93,93,Great idea for long-distance commuters.,Negative,2023-01-27 17:05:00,User93,Twitter,#CommuteStories #Transport,98,16,2023,1,Kicukiro
+94,94,This pricing is not fair for daily riders.,Positive,2023-01-27 09:25:00,User94,Facebook,#DistanceFare #RwandaTransport,69,183,2023,1,Rusizi
+95,95,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-31 00:49:00,User95,Instagram,#DistanceFare #RwandaTransport,50,150,2023,1,Ngoma
+96,96,This pricing is not fair for daily riders.,Neutral,2023-01-23 06:49:00,User96,Instagram,#BusLife #DistanceFareModel,38,177,2023,1,Kicukiro
+97,97,Why does my daily route cost more now?,Neutral,2023-01-07 18:18:00,User97,Facebook,#CityTransit #RwandaMoves,24,179,2023,1,Nyarugenge
+98,98,Fare system needs better explanation.,Neutral,2023-01-21 07:44:00,User98,Twitter,#PublicTransit #FareChange,54,146,2023,1,Rubavu
+99,99,Why does my daily route cost more now?,Negative,2023-01-25 12:16:00,User99,Instagram,#DistanceFare #RwandaTransport,74,187,2023,1,Ngoma
+100,100,Great idea for long-distance commuters.,Neutral,2023-01-23 01:01:00,User100,Instagram,#DistanceFare #RwandaTransport,98,36,2023,1,Huye
+101,101,Enjoying my commute again!,Neutral,2023-01-16 16:58:00,User101,Instagram,#KigaliCommute #BusTalk,80,131,2023,1,Kicukiro
+102,102,Enjoying my commute again!,Positive,2023-01-16 03:06:00,User102,Facebook,#CommuteStories #Transport,18,14,2023,1,Musanze
+103,103,Fare system needs better explanation.,Positive,2023-01-26 02:50:00,User103,Instagram,#KigaliCommute #BusTalk,97,38,2023,1,Musanze
+104,104,New fare structure is a relief for some routes.,Neutral,2023-01-25 17:34:00,User104,Instagram,#PublicTransit #FareChange,10,174,2023,1,Rwamagana
+105,105,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-18 04:00:00,User105,Facebook,#DistanceFare #RwandaTransport,17,175,2023,1,Rubavu
+106,106,New fare structure is a relief for some routes.,Negative,2023-01-21 17:21:00,User106,Facebook,#BusLife #DistanceFareModel,97,92,2023,1,Gasabo
+107,107,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-15 15:28:00,User107,Facebook,#CommuteStories #Transport,72,145,2023,1,Musanze
+108,108,Confusing fares! Miss the old days.,Positive,2023-01-09 14:03:00,User108,Instagram,#KigaliCommute #BusTalk,20,118,2023,1,Gasabo
+109,109,Great idea for long-distance commuters.,Negative,2023-01-11 20:50:00,User109,Instagram,#CommuteStories #Transport,90,74,2023,1,Kicukiro
+110,110,Why does my daily route cost more now?,Neutral,2023-01-27 00:33:00,User110,Facebook,#KigaliCommute #BusTalk,17,95,2023,1,Kicukiro
+111,111,Enjoying my commute again!,Neutral,2023-01-18 10:18:00,User111,Twitter,#DistanceFare #RwandaTransport,44,154,2023,1,Rusizi
+112,112,This pricing is not fair for daily riders.,Positive,2023-01-11 15:06:00,User112,Facebook,#CityTransit #RwandaMoves,44,80,2023,1,Rubavu
+113,113,I’m not sure how I feel about the fare change.,Neutral,2023-01-19 16:40:00,User113,Instagram,#CityTransit #RwandaMoves,42,54,2023,1,Huye
+114,114,"Spending less on short trips, finally!",Neutral,2023-01-02 23:40:00,User114,Instagram,#BusLife #DistanceFareModel,14,141,2023,1,Nyarugenge
+115,115,I’m not sure how I feel about the fare change.,Neutral,2023-01-15 11:32:00,User115,Facebook,#PublicTransit #FareChange,50,45,2023,1,Ngoma
+116,116,Why does my daily route cost more now?,Neutral,2023-01-22 12:36:00,User116,Twitter,#CommuteStories #Transport,37,79,2023,1,Musanze
+117,117,Why does my daily route cost more now?,Negative,2023-01-18 08:24:00,User117,Twitter,#PublicTransit #FareChange,16,168,2023,1,Huye
+118,118,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-18 13:42:00,User118,Instagram,#KigaliCommute #BusTalk,82,28,2023,1,Rusizi
+119,119,New fare structure is a relief for some routes.,Negative,2023-01-31 04:55:00,User119,Twitter,#DistanceFare #RwandaTransport,81,198,2023,1,Ngoma
+120,120,I’m not sure how I feel about the fare change.,Negative,2023-01-30 16:10:00,User120,Twitter,#BusLife #DistanceFareModel,21,117,2023,1,Rubavu
+121,121,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-07 22:08:00,User121,Twitter,#CityTransit #RwandaMoves,43,191,2023,1,Ngoma
+122,122,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-23 13:01:00,User122,Facebook,#CityTransit #RwandaMoves,42,176,2023,1,Nyarugenge
+123,123,New fare structure is a relief for some routes.,Neutral,2023-01-02 16:26:00,User123,Instagram,#BusLife #DistanceFareModel,57,100,2023,1,Ngoma
+124,124,This pricing is not fair for daily riders.,Positive,2023-01-06 17:53:00,User124,Facebook,#CommuteStories #Transport,32,99,2023,1,Rubavu
+125,125,Enjoying my commute again!,Neutral,2023-01-23 20:38:00,User125,Twitter,#PublicTransit #FareChange,71,28,2023,1,Huye
+126,126,Fare system needs better explanation.,Neutral,2023-01-27 20:38:00,User126,Instagram,#KigaliCommute #BusTalk,97,48,2023,1,Nyarugenge
+127,127,Enjoying my commute again!,Neutral,2023-01-16 02:37:00,User127,Facebook,#PublicTransit #FareChange,46,135,2023,1,Gasabo
+128,128,"Spending less on short trips, finally!",Positive,2023-01-05 13:37:00,User128,Instagram,#CityTransit #RwandaMoves,53,182,2023,1,Rusizi
+129,129,I’m not sure how I feel about the fare change.,Neutral,2023-01-21 00:55:00,User129,Facebook,#BusLife #DistanceFareModel,95,150,2023,1,Ngoma
+130,130,Enjoying my commute again!,Neutral,2023-01-05 12:54:00,User130,Instagram,#CityTransit #RwandaMoves,44,135,2023,1,Kicukiro
+131,131,Fare system needs better explanation.,Negative,2023-01-24 22:28:00,User131,Facebook,#DistanceFare #RwandaTransport,74,67,2023,1,Musanze
+132,132,Confusing fares! Miss the old days.,Negative,2023-01-21 19:05:00,User132,Twitter,#CityTransit #RwandaMoves,56,157,2023,1,Rwamagana
+133,133,I’m not sure how I feel about the fare change.,Neutral,2023-01-01 16:45:00,User133,Facebook,#KigaliCommute #BusTalk,87,70,2023,1,Ngoma
+134,134,Fare system needs better explanation.,Negative,2023-01-07 13:27:00,User134,Twitter,#CommuteStories #Transport,12,136,2023,1,Gasabo
+135,135,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-19 15:48:00,User135,Facebook,#CommuteStories #Transport,10,114,2023,1,Ngoma
+136,136,Why does my daily route cost more now?,Neutral,2023-01-30 19:11:00,User136,Twitter,#DistanceFare #RwandaTransport,14,176,2023,1,Rubavu
+137,137,This pricing is not fair for daily riders.,Positive,2023-01-08 00:36:00,User137,Twitter,#KigaliCommute #BusTalk,99,10,2023,1,Huye
+138,138,"Spending less on short trips, finally!",Negative,2023-01-04 09:43:00,User138,Facebook,#BusLife #DistanceFareModel,23,140,2023,1,Huye
+139,139,Fare system needs better explanation.,Negative,2023-01-22 08:48:00,User139,Facebook,#PublicTransit #FareChange,36,101,2023,1,Kicukiro
+140,140,Enjoying my commute again!,Positive,2023-01-13 01:28:00,User140,Instagram,#BusLife #DistanceFareModel,18,199,2023,1,Rusizi
+141,141,Why does my daily route cost more now?,Neutral,2023-01-16 09:47:00,User141,Facebook,#PublicTransit #FareChange,88,122,2023,1,Kicukiro
+142,142,Enjoying my commute again!,Negative,2023-01-29 08:45:00,User142,Instagram,#CommuteStories #Transport,24,162,2023,1,Rusizi
+143,143,I’m not sure how I feel about the fare change.,Negative,2023-01-19 02:09:00,User143,Facebook,#CityTransit #RwandaMoves,99,65,2023,1,Rubavu
+144,144,Fare system needs better explanation.,Negative,2023-01-30 13:47:00,User144,Instagram,#CityTransit #RwandaMoves,51,170,2023,1,Musanze
+145,145,Enjoying my commute again!,Positive,2023-01-04 15:43:00,User145,Twitter,#DistanceFare #RwandaTransport,86,175,2023,1,Rwamagana
+146,146,New fare structure is a relief for some routes.,Positive,2023-01-15 22:52:00,User146,Facebook,#BusLife #DistanceFareModel,60,126,2023,1,Rusizi
+147,147,Great idea for long-distance commuters.,Negative,2023-01-31 16:34:00,User147,Twitter,#KigaliCommute #BusTalk,72,143,2023,1,Rwamagana
+148,148,Why does my daily route cost more now?,Neutral,2023-01-25 06:51:00,User148,Facebook,#PublicTransit #FareChange,61,67,2023,1,Huye
+149,149,Confusing fares! Miss the old days.,Positive,2023-01-18 07:04:00,User149,Instagram,#CityTransit #RwandaMoves,13,53,2023,1,Huye
+150,150,Why does my daily route cost more now?,Neutral,2023-01-15 09:52:00,User150,Facebook,#DistanceFare #RwandaTransport,32,182,2023,1,Gasabo
+151,151,Enjoying my commute again!,Positive,2023-01-29 12:37:00,User151,Instagram,#BusLife #DistanceFareModel,24,169,2023,1,Rwamagana
+152,152,Enjoying my commute again!,Positive,2023-01-23 04:58:00,User152,Instagram,#KigaliCommute #BusTalk,52,182,2023,1,Rusizi
+153,153,"Spending less on short trips, finally!",Neutral,2023-01-25 14:56:00,User153,Facebook,#CommuteStories #Transport,38,70,2023,1,Rwamagana
+154,154,New fare structure is a relief for some routes.,Neutral,2023-01-02 15:12:00,User154,Twitter,#KigaliCommute #BusTalk,45,56,2023,1,Rubavu
+155,155,Confusing fares! Miss the old days.,Neutral,2023-01-29 02:25:00,User155,Facebook,#CommuteStories #Transport,22,158,2023,1,Gasabo
+156,156,This pricing is not fair for daily riders.,Positive,2023-01-04 02:44:00,User156,Twitter,#BusLife #DistanceFareModel,41,89,2023,1,Gasabo
+157,157,"Spending less on short trips, finally!",Neutral,2023-01-11 16:25:00,User157,Instagram,#KigaliCommute #BusTalk,80,127,2023,1,Nyarugenge
+158,158,I’m not sure how I feel about the fare change.,Neutral,2023-01-29 17:23:00,User158,Facebook,#DistanceFare #RwandaTransport,68,173,2023,1,Rwamagana
+159,159,Confusing fares! Miss the old days.,Neutral,2023-01-14 01:53:00,User159,Facebook,#BusLife #DistanceFareModel,95,156,2023,1,Rwamagana
+160,160,Fare system needs better explanation.,Neutral,2023-01-11 08:28:00,User160,Twitter,#CommuteStories #Transport,37,29,2023,1,Huye
+161,161,Great idea for long-distance commuters.,Neutral,2023-01-05 02:43:00,User161,Facebook,#DistanceFare #RwandaTransport,75,194,2023,1,Rwamagana
+162,162,"Spending less on short trips, finally!",Neutral,2023-01-20 18:00:00,User162,Instagram,#CityTransit #RwandaMoves,51,155,2023,1,Kicukiro
+163,163,Great idea for long-distance commuters.,Neutral,2023-01-05 11:31:00,User163,Facebook,#DistanceFare #RwandaTransport,54,56,2023,1,Kicukiro
+164,164,New fare structure is a relief for some routes.,Positive,2023-01-29 20:13:00,User164,Instagram,#CityTransit #RwandaMoves,71,58,2023,1,Rubavu
+165,165,I’m not sure how I feel about the fare change.,Neutral,2023-01-05 13:46:00,User165,Instagram,#DistanceFare #RwandaTransport,66,23,2023,1,Rwamagana
+166,166,I’m not sure how I feel about the fare change.,Positive,2023-01-21 04:36:00,User166,Twitter,#CommuteStories #Transport,15,152,2023,1,Rusizi
+167,167,This pricing is not fair for daily riders.,Negative,2023-01-08 13:42:00,User167,Twitter,#PublicTransit #FareChange,37,168,2023,1,Gasabo
+168,168,I’m not sure how I feel about the fare change.,Negative,2023-01-14 15:05:00,User168,Instagram,#PublicTransit #FareChange,37,10,2023,1,Huye
+169,169,Enjoying my commute again!,Positive,2023-01-02 07:37:00,User169,Twitter,#CityTransit #RwandaMoves,53,126,2023,1,Rusizi
+170,170,Why does my daily route cost more now?,Neutral,2023-01-03 02:14:00,User170,Twitter,#CityTransit #RwandaMoves,93,63,2023,1,Gasabo
+171,171,Why does my daily route cost more now?,Positive,2023-01-15 18:18:00,User171,Instagram,#KigaliCommute #BusTalk,39,127,2023,1,Rwamagana
+172,172,This pricing is not fair for daily riders.,Negative,2023-01-03 13:17:00,User172,Facebook,#DistanceFare #RwandaTransport,71,12,2023,1,Rusizi
+173,173,Enjoying my commute again!,Positive,2023-01-14 08:26:00,User173,Facebook,#DistanceFare #RwandaTransport,84,153,2023,1,Nyarugenge
+174,174,Why does my daily route cost more now?,Negative,2023-01-17 07:32:00,User174,Twitter,#DistanceFare #RwandaTransport,98,194,2023,1,Rusizi
+175,175,Fare system needs better explanation.,Positive,2023-01-18 01:25:00,User175,Twitter,#DistanceFare #RwandaTransport,71,21,2023,1,Kicukiro
+176,176,Enjoying my commute again!,Positive,2023-01-20 14:25:00,User176,Instagram,#KigaliCommute #BusTalk,10,83,2023,1,Rwamagana
+177,177,New fare structure is a relief for some routes.,Positive,2023-01-07 15:00:00,User177,Instagram,#CityTransit #RwandaMoves,36,25,2023,1,Musanze
+178,178,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-12 02:43:00,User178,Instagram,#PublicTransit #FareChange,71,111,2023,1,Rusizi
+179,179,Great idea for long-distance commuters.,Positive,2023-01-25 04:10:00,User179,Instagram,#KigaliCommute #BusTalk,86,161,2023,1,Nyarugenge
+180,180,Enjoying my commute again!,Negative,2023-01-19 18:04:00,User180,Facebook,#CommuteStories #Transport,12,165,2023,1,Rwamagana
+181,181,Great idea for long-distance commuters.,Positive,2023-01-26 18:08:00,User181,Instagram,#KigaliCommute #BusTalk,79,126,2023,1,Rusizi
+182,182,Fare system needs better explanation.,Positive,2023-01-09 04:40:00,User182,Instagram,#KigaliCommute #BusTalk,81,17,2023,1,Ngoma
+183,183,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-08 17:40:00,User183,Twitter,#KigaliCommute #BusTalk,36,131,2023,1,Nyarugenge
+184,184,Confusing fares! Miss the old days.,Neutral,2023-01-08 23:13:00,User184,Instagram,#BusLife #DistanceFareModel,18,101,2023,1,Musanze
+185,185,This pricing is not fair for daily riders.,Negative,2023-01-04 14:15:00,User185,Twitter,#CommuteStories #Transport,71,173,2023,1,Ngoma
+186,186,Enjoying my commute again!,Positive,2023-01-28 17:43:00,User186,Instagram,#CityTransit #RwandaMoves,46,99,2023,1,Nyarugenge
+187,187,This pricing is not fair for daily riders.,Negative,2023-01-18 09:50:00,User187,Instagram,#PublicTransit #FareChange,60,145,2023,1,Huye
+188,188,I’m not sure how I feel about the fare change.,Positive,2023-01-29 04:53:00,User188,Twitter,#PublicTransit #FareChange,53,195,2023,1,Gasabo
+189,189,Great idea for long-distance commuters.,Neutral,2023-01-11 23:03:00,User189,Facebook,#CityTransit #RwandaMoves,33,69,2023,1,Nyarugenge
+190,190,Great idea for long-distance commuters.,Negative,2023-01-23 15:35:00,User190,Facebook,#BusLife #DistanceFareModel,88,187,2023,1,Musanze
+191,191,I’m not sure how I feel about the fare change.,Neutral,2023-01-27 12:57:00,User191,Twitter,#PublicTransit #FareChange,68,37,2023,1,Rubavu
+192,192,Confusing fares! Miss the old days.,Neutral,2023-01-07 12:19:00,User192,Twitter,#KigaliCommute #BusTalk,41,110,2023,1,Gasabo
+193,193,"Spending less on short trips, finally!",Positive,2023-01-11 13:36:00,User193,Facebook,#PublicTransit #FareChange,97,50,2023,1,Rwamagana
+194,194,New fare structure is a relief for some routes.,Negative,2023-01-21 23:41:00,User194,Twitter,#CommuteStories #Transport,61,164,2023,1,Nyarugenge
+195,195,Enjoying my commute again!,Negative,2023-01-30 00:45:00,User195,Twitter,#CommuteStories #Transport,71,154,2023,1,Gasabo
+196,196,Great idea for long-distance commuters.,Negative,2023-01-12 13:24:00,User196,Twitter,#CityTransit #RwandaMoves,67,170,2023,1,Rusizi
+197,197,New fare structure is a relief for some routes.,Negative,2023-01-21 21:58:00,User197,Twitter,#BusLife #DistanceFareModel,61,166,2023,1,Nyarugenge
+198,198,Great idea for long-distance commuters.,Positive,2023-01-12 14:53:00,User198,Twitter,#DistanceFare #RwandaTransport,21,150,2023,1,Ngoma
+199,199,"Spending less on short trips, finally!",Positive,2023-01-31 08:22:00,User199,Facebook,#DistanceFare #RwandaTransport,48,55,2023,1,Musanze
+200,200,I’m not sure how I feel about the fare change.,Neutral,2023-01-01 10:15:00,User200,Twitter,#BusLife #DistanceFareModel,11,44,2023,1,Kicukiro
+201,201,"Spending less on short trips, finally!",Positive,2023-01-22 04:10:00,User201,Facebook,#PublicTransit #FareChange,12,143,2023,1,Kicukiro
+202,202,Great idea for long-distance commuters.,Negative,2023-01-14 02:10:00,User202,Instagram,#BusLife #DistanceFareModel,65,91,2023,1,Musanze
+203,203,I’m not sure how I feel about the fare change.,Positive,2023-01-31 20:07:00,User203,Facebook,#BusLife #DistanceFareModel,90,124,2023,1,Rubavu
+204,204,"Spending less on short trips, finally!",Neutral,2023-01-25 21:01:00,User204,Instagram,#PublicTransit #FareChange,68,56,2023,1,Musanze
+205,205,Confusing fares! Miss the old days.,Negative,2023-01-08 04:33:00,User205,Facebook,#CommuteStories #Transport,11,162,2023,1,Rusizi
+206,206,I’m not sure how I feel about the fare change.,Negative,2023-01-04 08:40:00,User206,Facebook,#KigaliCommute #BusTalk,11,19,2023,1,Musanze
+207,207,Enjoying my commute again!,Neutral,2023-01-21 02:29:00,User207,Twitter,#CityTransit #RwandaMoves,63,65,2023,1,Musanze
+208,208,Great idea for long-distance commuters.,Neutral,2023-01-16 17:26:00,User208,Facebook,#DistanceFare #RwandaTransport,96,39,2023,1,Gasabo
+209,209,Fare system needs better explanation.,Negative,2023-01-27 17:47:00,User209,Facebook,#CommuteStories #Transport,10,118,2023,1,Rwamagana
+210,210,This pricing is not fair for daily riders.,Positive,2023-01-14 14:45:00,User210,Twitter,#BusLife #DistanceFareModel,28,14,2023,1,Kicukiro
+211,211,Great idea for long-distance commuters.,Positive,2023-01-30 01:53:00,User211,Instagram,#BusLife #DistanceFareModel,11,128,2023,1,Rubavu
+212,212,Enjoying my commute again!,Negative,2023-01-20 07:27:00,User212,Facebook,#DistanceFare #RwandaTransport,62,42,2023,1,Gasabo
+213,213,Why does my daily route cost more now?,Negative,2023-01-12 09:10:00,User213,Twitter,#PublicTransit #FareChange,53,127,2023,1,Kicukiro
+214,214,New fare structure is a relief for some routes.,Negative,2023-01-21 18:59:00,User214,Instagram,#CityTransit #RwandaMoves,99,74,2023,1,Rwamagana
+215,215,New fare structure is a relief for some routes.,Positive,2023-01-14 17:59:00,User215,Facebook,#KigaliCommute #BusTalk,41,155,2023,1,Musanze
+216,216,This pricing is not fair for daily riders.,Positive,2023-01-10 01:35:00,User216,Facebook,#PublicTransit #FareChange,79,186,2023,1,Rwamagana
+217,217,Great idea for long-distance commuters.,Negative,2023-01-18 12:11:00,User217,Facebook,#DistanceFare #RwandaTransport,41,20,2023,1,Kicukiro
+218,218,This pricing is not fair for daily riders.,Neutral,2023-01-22 23:47:00,User218,Instagram,#PublicTransit #FareChange,77,94,2023,1,Huye
+219,219,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-05 20:29:00,User219,Instagram,#KigaliCommute #BusTalk,64,35,2023,1,Nyarugenge
+220,220,Great idea for long-distance commuters.,Negative,2023-01-11 19:05:00,User220,Facebook,#KigaliCommute #BusTalk,84,72,2023,1,Nyarugenge
+221,221,I’m not sure how I feel about the fare change.,Positive,2023-01-18 08:33:00,User221,Facebook,#BusLife #DistanceFareModel,65,95,2023,1,Ngoma
+222,222,I’m not sure how I feel about the fare change.,Negative,2023-01-27 00:41:00,User222,Instagram,#PublicTransit #FareChange,26,68,2023,1,Rusizi
+223,223,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-17 08:04:00,User223,Twitter,#CommuteStories #Transport,47,36,2023,1,Rwamagana
+224,224,Confusing fares! Miss the old days.,Neutral,2023-01-27 03:50:00,User224,Instagram,#CommuteStories #Transport,33,186,2023,1,Musanze
+225,225,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-14 11:10:00,User225,Twitter,#PublicTransit #FareChange,78,170,2023,1,Rwamagana
+226,226,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-14 10:28:00,User226,Twitter,#KigaliCommute #BusTalk,79,107,2023,1,Musanze
+227,227,This pricing is not fair for daily riders.,Negative,2023-01-01 23:57:00,User227,Twitter,#CityTransit #RwandaMoves,95,114,2023,1,Huye
+228,228,"Spending less on short trips, finally!",Neutral,2023-01-30 22:57:00,User228,Facebook,#KigaliCommute #BusTalk,20,108,2023,1,Huye
+229,229,I’m not sure how I feel about the fare change.,Positive,2023-01-19 00:19:00,User229,Facebook,#KigaliCommute #BusTalk,25,138,2023,1,Rusizi
+230,230,"Spending less on short trips, finally!",Negative,2023-01-13 11:48:00,User230,Twitter,#CityTransit #RwandaMoves,82,158,2023,1,Rubavu
+231,231,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-01 08:50:00,User231,Twitter,#DistanceFare #RwandaTransport,68,64,2023,1,Kicukiro
+232,232,Confusing fares! Miss the old days.,Neutral,2023-01-26 18:08:00,User232,Twitter,#KigaliCommute #BusTalk,79,15,2023,1,Ngoma
+233,233,I’m not sure how I feel about the fare change.,Positive,2023-01-03 05:34:00,User233,Instagram,#CityTransit #RwandaMoves,89,104,2023,1,Huye
+234,234,Great idea for long-distance commuters.,Neutral,2023-01-28 14:21:00,User234,Facebook,#PublicTransit #FareChange,12,142,2023,1,Gasabo
+235,235,Great idea for long-distance commuters.,Neutral,2023-01-23 14:33:00,User235,Twitter,#CityTransit #RwandaMoves,29,111,2023,1,Nyarugenge
+236,236,Great idea for long-distance commuters.,Positive,2023-01-14 00:36:00,User236,Twitter,#CommuteStories #Transport,68,12,2023,1,Musanze
+237,237,Enjoying my commute again!,Neutral,2023-01-11 11:21:00,User237,Instagram,#CityTransit #RwandaMoves,45,190,2023,1,Nyarugenge
+238,238,This pricing is not fair for daily riders.,Neutral,2023-01-28 15:04:00,User238,Facebook,#KigaliCommute #BusTalk,28,32,2023,1,Huye
+239,239,Why does my daily route cost more now?,Negative,2023-01-17 00:49:00,User239,Twitter,#DistanceFare #RwandaTransport,99,62,2023,1,Huye
+240,240,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-10 23:12:00,User240,Facebook,#PublicTransit #FareChange,76,174,2023,1,Gasabo
+241,241,Why does my daily route cost more now?,Negative,2023-01-29 23:21:00,User241,Twitter,#CityTransit #RwandaMoves,28,92,2023,1,Gasabo
+242,242,Fare system needs better explanation.,Positive,2023-01-09 15:40:00,User242,Instagram,#KigaliCommute #BusTalk,29,154,2023,1,Nyarugenge
+243,243,This pricing is not fair for daily riders.,Neutral,2023-01-29 06:10:00,User243,Instagram,#DistanceFare #RwandaTransport,80,94,2023,1,Rusizi
+244,244,Great idea for long-distance commuters.,Positive,2023-01-12 09:45:00,User244,Facebook,#CityTransit #RwandaMoves,61,87,2023,1,Nyarugenge
+245,245,I’m not sure how I feel about the fare change.,Negative,2023-01-31 20:17:00,User245,Instagram,#PublicTransit #FareChange,42,119,2023,1,Huye
+246,246,This pricing is not fair for daily riders.,Negative,2023-01-31 00:00:00,User246,Facebook,#PublicTransit #FareChange,49,10,2023,1,Nyarugenge
+247,247,Enjoying my commute again!,Negative,2023-01-31 23:40:00,User247,Twitter,#CommuteStories #Transport,48,60,2023,1,Musanze
+248,248,I’m not sure how I feel about the fare change.,Neutral,2023-01-07 05:23:00,User248,Instagram,#PublicTransit #FareChange,91,182,2023,1,Rusizi
+249,249,"Spending less on short trips, finally!",Negative,2023-01-29 14:12:00,User249,Twitter,#DistanceFare #RwandaTransport,10,13,2023,1,Huye
+250,250,Enjoying my commute again!,Negative,2023-01-05 10:07:00,User250,Twitter,#KigaliCommute #BusTalk,20,199,2023,1,Rwamagana
+251,251,"Spending less on short trips, finally!",Neutral,2023-01-29 13:21:00,User251,Instagram,#PublicTransit #FareChange,66,122,2023,1,Huye
+252,252,I’m not sure how I feel about the fare change.,Neutral,2023-01-30 09:58:00,User252,Instagram,#PublicTransit #FareChange,98,41,2023,1,Nyarugenge
+253,253,Great idea for long-distance commuters.,Neutral,2023-01-02 19:03:00,User253,Instagram,#KigaliCommute #BusTalk,59,43,2023,1,Kicukiro
+254,254,Why does my daily route cost more now?,Negative,2023-01-15 01:26:00,User254,Twitter,#KigaliCommute #BusTalk,32,101,2023,1,Rwamagana
+255,255,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-21 01:29:00,User255,Facebook,#DistanceFare #RwandaTransport,40,104,2023,1,Ngoma
+256,256,This pricing is not fair for daily riders.,Neutral,2023-01-02 12:26:00,User256,Facebook,#PublicTransit #FareChange,51,81,2023,1,Huye
+257,257,This pricing is not fair for daily riders.,Neutral,2023-01-27 09:02:00,User257,Twitter,#DistanceFare #RwandaTransport,16,48,2023,1,Rubavu
+258,258,Great idea for long-distance commuters.,Positive,2023-01-17 14:31:00,User258,Twitter,#PublicTransit #FareChange,25,163,2023,1,Rubavu
+259,259,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-06 23:32:00,User259,Twitter,#CityTransit #RwandaMoves,99,171,2023,1,Huye
+260,260,"Spending less on short trips, finally!",Neutral,2023-01-05 02:26:00,User260,Instagram,#PublicTransit #FareChange,69,191,2023,1,Ngoma
+261,261,Why does my daily route cost more now?,Neutral,2023-01-14 10:20:00,User261,Facebook,#CommuteStories #Transport,11,127,2023,1,Kicukiro
+262,262,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-15 20:51:00,User262,Facebook,#CommuteStories #Transport,10,12,2023,1,Rwamagana
+263,263,"Spending less on short trips, finally!",Neutral,2023-01-19 21:50:00,User263,Facebook,#CommuteStories #Transport,57,132,2023,1,Huye
+264,264,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-08 23:50:00,User264,Facebook,#CommuteStories #Transport,21,59,2023,1,Musanze
+265,265,Fare system needs better explanation.,Negative,2023-01-10 03:19:00,User265,Facebook,#DistanceFare #RwandaTransport,78,21,2023,1,Ngoma
+266,266,This pricing is not fair for daily riders.,Negative,2023-01-07 00:21:00,User266,Facebook,#PublicTransit #FareChange,46,63,2023,1,Ngoma
+267,267,Fare system needs better explanation.,Neutral,2023-01-25 13:10:00,User267,Twitter,#CityTransit #RwandaMoves,41,142,2023,1,Nyarugenge
+268,268,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-17 15:36:00,User268,Twitter,#DistanceFare #RwandaTransport,18,66,2023,1,Rwamagana
+269,269,Enjoying my commute again!,Positive,2023-01-25 03:49:00,User269,Instagram,#KigaliCommute #BusTalk,28,154,2023,1,Kicukiro
+270,270,This pricing is not fair for daily riders.,Neutral,2023-01-23 20:05:00,User270,Twitter,#PublicTransit #FareChange,57,121,2023,1,Musanze
+271,271,Why does my daily route cost more now?,Neutral,2023-01-13 09:40:00,User271,Twitter,#BusLife #DistanceFareModel,89,56,2023,1,Rwamagana
+272,272,Great idea for long-distance commuters.,Positive,2023-01-08 11:43:00,User272,Facebook,#PublicTransit #FareChange,12,160,2023,1,Rusizi
+273,273,Fare system needs better explanation.,Neutral,2023-01-12 16:40:00,User273,Instagram,#DistanceFare #RwandaTransport,29,94,2023,1,Nyarugenge
+274,274,Great idea for long-distance commuters.,Positive,2023-01-22 22:18:00,User274,Facebook,#CommuteStories #Transport,33,151,2023,1,Rubavu
+275,275,"Spending less on short trips, finally!",Neutral,2023-01-14 10:22:00,User275,Instagram,#BusLife #DistanceFareModel,63,75,2023,1,Musanze
+276,276,New fare structure is a relief for some routes.,Neutral,2023-01-16 09:58:00,User276,Twitter,#DistanceFare #RwandaTransport,42,84,2023,1,Rwamagana
+277,277,Enjoying my commute again!,Neutral,2023-01-06 05:47:00,User277,Twitter,#PublicTransit #FareChange,33,188,2023,1,Rubavu
+278,278,"Spending less on short trips, finally!",Neutral,2023-01-22 07:32:00,User278,Facebook,#CityTransit #RwandaMoves,84,112,2023,1,Musanze
+279,279,Confusing fares! Miss the old days.,Negative,2023-01-04 10:14:00,User279,Facebook,#DistanceFare #RwandaTransport,81,175,2023,1,Musanze
+280,280,"Spending less on short trips, finally!",Negative,2023-01-07 09:44:00,User280,Facebook,#CityTransit #RwandaMoves,45,47,2023,1,Kicukiro
+281,281,"Spending less on short trips, finally!",Neutral,2023-01-11 06:25:00,User281,Twitter,#BusLife #DistanceFareModel,47,59,2023,1,Ngoma
+282,282,New fare structure is a relief for some routes.,Negative,2023-01-31 18:43:00,User282,Twitter,#KigaliCommute #BusTalk,93,107,2023,1,Musanze
+283,283,This pricing is not fair for daily riders.,Positive,2023-01-31 16:37:00,User283,Twitter,#DistanceFare #RwandaTransport,98,91,2023,1,Kicukiro
+284,284,Enjoying my commute again!,Negative,2023-01-19 02:04:00,User284,Instagram,#BusLife #DistanceFareModel,34,39,2023,1,Rwamagana
+285,285,Enjoying my commute again!,Positive,2023-01-26 08:44:00,User285,Facebook,#CityTransit #RwandaMoves,27,88,2023,1,Rusizi
+286,286,Why does my daily route cost more now?,Positive,2023-01-17 15:31:00,User286,Instagram,#BusLife #DistanceFareModel,91,100,2023,1,Huye
+287,287,"Spending less on short trips, finally!",Positive,2023-01-05 02:38:00,User287,Twitter,#CommuteStories #Transport,75,188,2023,1,Huye
+288,288,Enjoying my commute again!,Negative,2023-01-18 22:58:00,User288,Twitter,#DistanceFare #RwandaTransport,63,61,2023,1,Ngoma
+289,289,I’m not sure how I feel about the fare change.,Neutral,2023-01-01 15:12:00,User289,Instagram,#CommuteStories #Transport,44,175,2023,1,Kicukiro
+290,290,Why does my daily route cost more now?,Neutral,2023-01-13 00:51:00,User290,Facebook,#KigaliCommute #BusTalk,89,88,2023,1,Rusizi
+291,291,I’m not sure how I feel about the fare change.,Negative,2023-01-25 10:04:00,User291,Facebook,#BusLife #DistanceFareModel,70,39,2023,1,Nyarugenge
+292,292,New fare structure is a relief for some routes.,Positive,2023-01-06 14:59:00,User292,Twitter,#BusLife #DistanceFareModel,50,115,2023,1,Rwamagana
+293,293,I’m not sure how I feel about the fare change.,Negative,2023-01-21 16:44:00,User293,Twitter,#BusLife #DistanceFareModel,42,60,2023,1,Musanze
+294,294,Great idea for long-distance commuters.,Neutral,2023-01-17 18:35:00,User294,Twitter,#BusLife #DistanceFareModel,77,90,2023,1,Musanze
+295,295,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-31 14:54:00,User295,Facebook,#KigaliCommute #BusTalk,42,142,2023,1,Rwamagana
+296,296,I’m not sure how I feel about the fare change.,Negative,2023-01-31 14:22:00,User296,Instagram,#CityTransit #RwandaMoves,23,38,2023,1,Rwamagana
+297,297,New fare structure is a relief for some routes.,Neutral,2023-01-12 22:21:00,User297,Twitter,#PublicTransit #FareChange,30,141,2023,1,Kicukiro
+298,298,Great idea for long-distance commuters.,Neutral,2023-01-27 14:29:00,User298,Twitter,#KigaliCommute #BusTalk,57,147,2023,1,Musanze
+299,299,New fare structure is a relief for some routes.,Positive,2023-01-18 08:10:00,User299,Instagram,#CityTransit #RwandaMoves,29,193,2023,1,Huye
+300,300,New fare structure is a relief for some routes.,Positive,2023-01-30 01:27:00,User300,Facebook,#DistanceFare #RwandaTransport,17,154,2023,1,Ngoma
+301,301,"Spending less on short trips, finally!",Neutral,2023-01-17 21:44:00,User301,Twitter,#CityTransit #RwandaMoves,16,83,2023,1,Huye
+302,302,New fare structure is a relief for some routes.,Positive,2023-01-05 22:20:00,User302,Facebook,#DistanceFare #RwandaTransport,76,26,2023,1,Rubavu
+303,303,I’m not sure how I feel about the fare change.,Neutral,2023-01-31 17:06:00,User303,Twitter,#CityTransit #RwandaMoves,26,93,2023,1,Gasabo
+304,304,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-11 15:23:00,User304,Facebook,#BusLife #DistanceFareModel,42,78,2023,1,Rusizi
+305,305,New fare structure is a relief for some routes.,Positive,2023-01-22 10:58:00,User305,Instagram,#KigaliCommute #BusTalk,57,43,2023,1,Rubavu
+306,306,New fare structure is a relief for some routes.,Neutral,2023-01-02 03:20:00,User306,Twitter,#CityTransit #RwandaMoves,85,15,2023,1,Gasabo
+307,307,Enjoying my commute again!,Negative,2023-01-29 04:42:00,User307,Twitter,#PublicTransit #FareChange,68,62,2023,1,Rwamagana
+308,308,Confusing fares! Miss the old days.,Negative,2023-01-26 13:12:00,User308,Twitter,#PublicTransit #FareChange,95,135,2023,1,Huye
+309,309,Fare system needs better explanation.,Neutral,2023-01-15 22:16:00,User309,Twitter,#CommuteStories #Transport,31,52,2023,1,Nyarugenge
+310,310,Great idea for long-distance commuters.,Neutral,2023-01-28 18:22:00,User310,Twitter,#CityTransit #RwandaMoves,39,124,2023,1,Ngoma
+311,311,Confusing fares! Miss the old days.,Negative,2023-01-11 01:47:00,User311,Instagram,#KigaliCommute #BusTalk,47,120,2023,1,Musanze
+312,312,Great idea for long-distance commuters.,Negative,2023-01-30 11:24:00,User312,Twitter,#BusLife #DistanceFareModel,60,160,2023,1,Nyarugenge
+313,313,Fare system needs better explanation.,Neutral,2023-01-03 21:02:00,User313,Twitter,#CommuteStories #Transport,63,192,2023,1,Gasabo
+314,314,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-29 22:01:00,User314,Facebook,#CityTransit #RwandaMoves,17,89,2023,1,Huye
+315,315,Why does my daily route cost more now?,Negative,2023-01-22 03:06:00,User315,Twitter,#BusLife #DistanceFareModel,36,104,2023,1,Rwamagana
+316,316,Fare system needs better explanation.,Negative,2023-01-14 18:04:00,User316,Facebook,#KigaliCommute #BusTalk,36,127,2023,1,Huye
+317,317,This pricing is not fair for daily riders.,Neutral,2023-01-30 13:08:00,User317,Instagram,#KigaliCommute #BusTalk,30,153,2023,1,Rusizi
+318,318,Confusing fares! Miss the old days.,Neutral,2023-01-19 13:58:00,User318,Facebook,#CommuteStories #Transport,39,17,2023,1,Huye
+319,319,I’m not sure how I feel about the fare change.,Negative,2023-01-06 07:26:00,User319,Facebook,#CommuteStories #Transport,37,141,2023,1,Rubavu
+320,320,"Spending less on short trips, finally!",Neutral,2023-01-07 08:40:00,User320,Instagram,#CityTransit #RwandaMoves,73,113,2023,1,Ngoma
+321,321,This pricing is not fair for daily riders.,Neutral,2023-01-03 01:31:00,User321,Instagram,#BusLife #DistanceFareModel,78,141,2023,1,Nyarugenge
+322,322,New fare structure is a relief for some routes.,Neutral,2023-01-02 16:38:00,User322,Facebook,#PublicTransit #FareChange,70,193,2023,1,Huye
+323,323,New fare structure is a relief for some routes.,Neutral,2023-01-14 20:26:00,User323,Facebook,#BusLife #DistanceFareModel,57,34,2023,1,Huye
+324,324,I’m not sure how I feel about the fare change.,Positive,2023-01-23 10:04:00,User324,Instagram,#KigaliCommute #BusTalk,28,105,2023,1,Gasabo
+325,325,I’m not sure how I feel about the fare change.,Positive,2023-01-06 06:50:00,User325,Instagram,#KigaliCommute #BusTalk,13,164,2023,1,Rusizi
+326,326,Enjoying my commute again!,Negative,2023-01-05 10:09:00,User326,Instagram,#CityTransit #RwandaMoves,44,102,2023,1,Huye
+327,327,Great idea for long-distance commuters.,Positive,2023-01-11 16:27:00,User327,Instagram,#PublicTransit #FareChange,73,169,2023,1,Huye
+328,328,Enjoying my commute again!,Neutral,2023-01-25 11:08:00,User328,Instagram,#DistanceFare #RwandaTransport,58,187,2023,1,Musanze
+329,329,Fare system needs better explanation.,Positive,2023-01-07 04:10:00,User329,Facebook,#CityTransit #RwandaMoves,26,70,2023,1,Huye
+330,330,Why does my daily route cost more now?,Negative,2023-01-18 16:30:00,User330,Instagram,#KigaliCommute #BusTalk,53,131,2023,1,Rwamagana
+331,331,Confusing fares! Miss the old days.,Negative,2023-01-21 15:29:00,User331,Twitter,#KigaliCommute #BusTalk,39,60,2023,1,Rubavu
+332,332,I’m not sure how I feel about the fare change.,Negative,2023-01-17 21:14:00,User332,Twitter,#BusLife #DistanceFareModel,55,156,2023,1,Ngoma
+333,333,Great idea for long-distance commuters.,Positive,2023-01-31 12:20:00,User333,Twitter,#PublicTransit #FareChange,15,30,2023,1,Musanze
+334,334,Confusing fares! Miss the old days.,Positive,2023-01-25 14:02:00,User334,Twitter,#BusLife #DistanceFareModel,46,14,2023,1,Rusizi
+335,335,Fare system needs better explanation.,Positive,2023-01-20 01:47:00,User335,Instagram,#BusLife #DistanceFareModel,33,101,2023,1,Rwamagana
+336,336,Why does my daily route cost more now?,Negative,2023-01-27 17:31:00,User336,Twitter,#CityTransit #RwandaMoves,55,179,2023,1,Rubavu
+337,337,This pricing is not fair for daily riders.,Neutral,2023-01-08 00:46:00,User337,Facebook,#BusLife #DistanceFareModel,62,70,2023,1,Ngoma
+338,338,Enjoying my commute again!,Neutral,2023-01-19 21:09:00,User338,Twitter,#CommuteStories #Transport,69,31,2023,1,Ngoma
+339,339,Fare system needs better explanation.,Negative,2023-01-30 19:20:00,User339,Instagram,#CommuteStories #Transport,72,158,2023,1,Rubavu
+340,340,New fare structure is a relief for some routes.,Negative,2023-01-05 12:09:00,User340,Twitter,#BusLife #DistanceFareModel,94,79,2023,1,Rwamagana
+341,341,Enjoying my commute again!,Negative,2023-01-23 06:29:00,User341,Facebook,#PublicTransit #FareChange,41,10,2023,1,Rusizi
+342,342,"Spending less on short trips, finally!",Negative,2023-01-29 00:27:00,User342,Instagram,#BusLife #DistanceFareModel,96,142,2023,1,Rusizi
+343,343,Enjoying my commute again!,Neutral,2023-01-19 13:46:00,User343,Instagram,#KigaliCommute #BusTalk,42,21,2023,1,Gasabo
+344,344,Fare system needs better explanation.,Positive,2023-01-13 17:33:00,User344,Instagram,#KigaliCommute #BusTalk,76,99,2023,1,Rusizi
+345,345,I’m not sure how I feel about the fare change.,Positive,2023-01-02 11:44:00,User345,Twitter,#PublicTransit #FareChange,27,55,2023,1,Rubavu
+346,346,Why does my daily route cost more now?,Neutral,2023-01-17 20:43:00,User346,Twitter,#CityTransit #RwandaMoves,34,43,2023,1,Huye
+347,347,Fare system needs better explanation.,Positive,2023-01-10 21:18:00,User347,Instagram,#CommuteStories #Transport,63,186,2023,1,Rubavu
+348,348,I’m not sure how I feel about the fare change.,Neutral,2023-01-21 04:17:00,User348,Twitter,#CommuteStories #Transport,67,87,2023,1,Rubavu
+349,349,I’m not sure how I feel about the fare change.,Positive,2023-01-21 05:43:00,User349,Facebook,#CityTransit #RwandaMoves,76,54,2023,1,Musanze
+350,350,Enjoying my commute again!,Neutral,2023-01-11 17:53:00,User350,Instagram,#BusLife #DistanceFareModel,55,164,2023,1,Nyarugenge
+351,351,Why does my daily route cost more now?,Positive,2023-01-17 12:08:00,User351,Facebook,#PublicTransit #FareChange,33,82,2023,1,Huye
+352,352,Fare system needs better explanation.,Negative,2023-01-05 12:31:00,User352,Facebook,#DistanceFare #RwandaTransport,41,35,2023,1,Kicukiro
+353,353,Fare system needs better explanation.,Negative,2023-01-17 17:13:00,User353,Twitter,#DistanceFare #RwandaTransport,56,56,2023,1,Nyarugenge
+354,354,New fare structure is a relief for some routes.,Positive,2023-01-25 18:42:00,User354,Twitter,#BusLife #DistanceFareModel,95,130,2023,1,Ngoma
+355,355,Great idea for long-distance commuters.,Neutral,2023-01-30 08:19:00,User355,Instagram,#CityTransit #RwandaMoves,32,65,2023,1,Rwamagana
+356,356,Confusing fares! Miss the old days.,Positive,2023-01-17 07:46:00,User356,Facebook,#PublicTransit #FareChange,75,103,2023,1,Musanze
+357,357,Great idea for long-distance commuters.,Positive,2023-01-03 18:08:00,User357,Twitter,#CommuteStories #Transport,36,116,2023,1,Ngoma
+358,358,Fare system needs better explanation.,Negative,2023-01-19 02:52:00,User358,Facebook,#CommuteStories #Transport,11,72,2023,1,Kicukiro
+359,359,Enjoying my commute again!,Neutral,2023-01-13 13:20:00,User359,Twitter,#BusLife #DistanceFareModel,99,57,2023,1,Huye
+360,360,This pricing is not fair for daily riders.,Negative,2023-01-09 15:19:00,User360,Facebook,#KigaliCommute #BusTalk,26,70,2023,1,Rubavu
+361,361,Fare system needs better explanation.,Positive,2023-01-06 13:25:00,User361,Instagram,#CityTransit #RwandaMoves,42,90,2023,1,Huye
+362,362,"Spending less on short trips, finally!",Negative,2023-01-21 16:40:00,User362,Twitter,#DistanceFare #RwandaTransport,18,35,2023,1,Musanze
+363,363,I’m not sure how I feel about the fare change.,Neutral,2023-01-05 04:07:00,User363,Instagram,#CityTransit #RwandaMoves,52,45,2023,1,Huye
+364,364,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-31 03:55:00,User364,Facebook,#BusLife #DistanceFareModel,57,10,2023,1,Rusizi
+365,365,Fare system needs better explanation.,Positive,2023-01-10 15:40:00,User365,Facebook,#CityTransit #RwandaMoves,48,17,2023,1,Rwamagana
+366,366,"Spending less on short trips, finally!",Negative,2023-01-30 04:54:00,User366,Instagram,#CommuteStories #Transport,51,122,2023,1,Rubavu
+367,367,"Spending less on short trips, finally!",Neutral,2023-01-30 02:29:00,User367,Facebook,#BusLife #DistanceFareModel,35,108,2023,1,Ngoma
+368,368,Confusing fares! Miss the old days.,Neutral,2023-01-28 04:14:00,User368,Twitter,#CommuteStories #Transport,59,189,2023,1,Rusizi
+369,369,Why does my daily route cost more now?,Neutral,2023-01-01 23:19:00,User369,Twitter,#PublicTransit #FareChange,34,56,2023,1,Rusizi
+370,370,Fare system needs better explanation.,Neutral,2023-01-03 07:14:00,User370,Facebook,#PublicTransit #FareChange,33,136,2023,1,Rusizi
+371,371,Why does my daily route cost more now?,Neutral,2023-01-16 04:16:00,User371,Facebook,#KigaliCommute #BusTalk,22,65,2023,1,Kicukiro
+372,372,This pricing is not fair for daily riders.,Positive,2023-01-12 02:02:00,User372,Facebook,#CityTransit #RwandaMoves,69,23,2023,1,Rubavu
+373,373,Enjoying my commute again!,Positive,2023-01-06 17:32:00,User373,Facebook,#PublicTransit #FareChange,16,37,2023,1,Kicukiro
+374,374,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-26 16:40:00,User374,Twitter,#CityTransit #RwandaMoves,66,87,2023,1,Kicukiro
+375,375,Enjoying my commute again!,Neutral,2023-01-10 08:08:00,User375,Twitter,#CommuteStories #Transport,45,139,2023,1,Rwamagana
+376,376,"Spending less on short trips, finally!",Positive,2023-01-04 02:56:00,User376,Facebook,#BusLife #DistanceFareModel,54,118,2023,1,Rusizi
+377,377,I’m not sure how I feel about the fare change.,Positive,2023-01-26 05:20:00,User377,Instagram,#PublicTransit #FareChange,29,163,2023,1,Kicukiro
+378,378,I’m not sure how I feel about the fare change.,Neutral,2023-01-10 10:16:00,User378,Instagram,#BusLife #DistanceFareModel,74,23,2023,1,Rwamagana
+379,379,Why does my daily route cost more now?,Neutral,2023-01-27 16:29:00,User379,Twitter,#PublicTransit #FareChange,17,196,2023,1,Nyarugenge
+380,380,Enjoying my commute again!,Positive,2023-01-10 19:52:00,User380,Instagram,#CityTransit #RwandaMoves,25,65,2023,1,Rwamagana
+381,381,"Spending less on short trips, finally!",Negative,2023-01-11 14:29:00,User381,Facebook,#PublicTransit #FareChange,23,124,2023,1,Nyarugenge
+382,382,Confusing fares! Miss the old days.,Negative,2023-01-15 22:52:00,User382,Instagram,#DistanceFare #RwandaTransport,85,16,2023,1,Gasabo
+383,383,New fare structure is a relief for some routes.,Negative,2023-01-07 17:10:00,User383,Twitter,#PublicTransit #FareChange,96,12,2023,1,Nyarugenge
+384,384,Enjoying my commute again!,Positive,2023-01-28 02:58:00,User384,Facebook,#CommuteStories #Transport,24,120,2023,1,Nyarugenge
+385,385,Why does my daily route cost more now?,Positive,2023-01-01 03:05:00,User385,Facebook,#KigaliCommute #BusTalk,75,160,2023,1,Musanze
+386,386,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-13 14:51:00,User386,Twitter,#CommuteStories #Transport,41,116,2023,1,Kicukiro
+387,387,Why does my daily route cost more now?,Negative,2023-01-07 14:02:00,User387,Instagram,#BusLife #DistanceFareModel,96,27,2023,1,Huye
+388,388,"Spending less on short trips, finally!",Neutral,2023-01-06 21:59:00,User388,Twitter,#CityTransit #RwandaMoves,72,47,2023,1,Gasabo
+389,389,Fare system needs better explanation.,Positive,2023-01-25 14:03:00,User389,Twitter,#CityTransit #RwandaMoves,95,124,2023,1,Kicukiro
+390,390,Confusing fares! Miss the old days.,Positive,2023-01-12 09:46:00,User390,Instagram,#PublicTransit #FareChange,60,24,2023,1,Nyarugenge
+391,391,"Spending less on short trips, finally!",Positive,2023-01-08 22:35:00,User391,Facebook,#CityTransit #RwandaMoves,34,128,2023,1,Huye
+392,392,Confusing fares! Miss the old days.,Negative,2023-01-06 00:04:00,User392,Instagram,#KigaliCommute #BusTalk,67,37,2023,1,Rwamagana
+393,393,Great idea for long-distance commuters.,Neutral,2023-01-31 02:03:00,User393,Instagram,#KigaliCommute #BusTalk,72,48,2023,1,Rusizi
+394,394,Great idea for long-distance commuters.,Negative,2023-01-02 04:09:00,User394,Facebook,#PublicTransit #FareChange,71,194,2023,1,Rubavu
+395,395,I’m not sure how I feel about the fare change.,Negative,2023-01-06 23:57:00,User395,Facebook,#PublicTransit #FareChange,31,26,2023,1,Nyarugenge
+396,396,Confusing fares! Miss the old days.,Negative,2023-01-01 16:13:00,User396,Twitter,#BusLife #DistanceFareModel,67,95,2023,1,Rusizi
+397,397,Enjoying my commute again!,Positive,2023-01-17 07:17:00,User397,Instagram,#PublicTransit #FareChange,67,135,2023,1,Rusizi
+398,398,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-11 19:53:00,User398,Facebook,#CommuteStories #Transport,95,53,2023,1,Nyarugenge
+399,399,New fare structure is a relief for some routes.,Neutral,2023-01-27 19:11:00,User399,Instagram,#CommuteStories #Transport,58,34,2023,1,Nyarugenge
+400,400,Why does my daily route cost more now?,Neutral,2023-01-15 17:38:00,User400,Instagram,#CommuteStories #Transport,61,154,2023,1,Rwamagana
+401,401,Great idea for long-distance commuters.,Neutral,2023-01-01 17:14:00,User401,Facebook,#KigaliCommute #BusTalk,51,22,2023,1,Rwamagana
+402,402,Why does my daily route cost more now?,Neutral,2023-01-08 22:19:00,User402,Facebook,#DistanceFare #RwandaTransport,79,34,2023,1,Musanze
+403,403,Why does my daily route cost more now?,Negative,2023-01-13 01:51:00,User403,Instagram,#CityTransit #RwandaMoves,24,77,2023,1,Nyarugenge
+404,404,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-03 09:14:00,User404,Facebook,#BusLife #DistanceFareModel,63,147,2023,1,Nyarugenge
+405,405,"Spending less on short trips, finally!",Neutral,2023-01-06 18:27:00,User405,Instagram,#PublicTransit #FareChange,69,76,2023,1,Rwamagana
+406,406,Why does my daily route cost more now?,Negative,2023-01-20 03:48:00,User406,Facebook,#BusLife #DistanceFareModel,17,118,2023,1,Ngoma
+407,407,Confusing fares! Miss the old days.,Negative,2023-01-24 22:37:00,User407,Twitter,#KigaliCommute #BusTalk,62,155,2023,1,Rwamagana
+408,408,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-06 04:08:00,User408,Facebook,#PublicTransit #FareChange,69,120,2023,1,Ngoma
+409,409,Great idea for long-distance commuters.,Negative,2023-01-03 21:25:00,User409,Instagram,#PublicTransit #FareChange,14,120,2023,1,Nyarugenge
+410,410,Fare system needs better explanation.,Negative,2023-01-22 16:11:00,User410,Facebook,#KigaliCommute #BusTalk,77,43,2023,1,Rwamagana
+411,411,Why does my daily route cost more now?,Positive,2023-01-21 09:38:00,User411,Instagram,#CityTransit #RwandaMoves,15,120,2023,1,Musanze
+412,412,I’m not sure how I feel about the fare change.,Positive,2023-01-17 11:26:00,User412,Facebook,#PublicTransit #FareChange,56,17,2023,1,Kicukiro
+413,413,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-24 08:35:00,User413,Instagram,#CityTransit #RwandaMoves,64,177,2023,1,Gasabo
+414,414,"Spending less on short trips, finally!",Positive,2023-01-28 00:26:00,User414,Instagram,#KigaliCommute #BusTalk,49,122,2023,1,Gasabo
+415,415,This pricing is not fair for daily riders.,Neutral,2023-01-05 23:06:00,User415,Facebook,#BusLife #DistanceFareModel,61,92,2023,1,Rwamagana
+416,416,Great idea for long-distance commuters.,Negative,2023-01-21 13:42:00,User416,Instagram,#PublicTransit #FareChange,25,51,2023,1,Kicukiro
+417,417,Great idea for long-distance commuters.,Positive,2023-01-23 22:19:00,User417,Twitter,#DistanceFare #RwandaTransport,22,178,2023,1,Huye
+418,418,This pricing is not fair for daily riders.,Positive,2023-01-11 01:59:00,User418,Twitter,#CityTransit #RwandaMoves,39,110,2023,1,Huye
+419,419,Confusing fares! Miss the old days.,Positive,2023-01-28 23:51:00,User419,Facebook,#PublicTransit #FareChange,28,15,2023,1,Rwamagana
+420,420,Fare system needs better explanation.,Positive,2023-01-02 23:21:00,User420,Instagram,#CityTransit #RwandaMoves,26,189,2023,1,Ngoma
+421,421,Great idea for long-distance commuters.,Negative,2023-01-30 23:41:00,User421,Instagram,#PublicTransit #FareChange,72,35,2023,1,Rubavu
+422,422,Great idea for long-distance commuters.,Positive,2023-01-24 17:33:00,User422,Instagram,#PublicTransit #FareChange,28,73,2023,1,Ngoma
+423,423,"Spending less on short trips, finally!",Positive,2023-01-14 17:27:00,User423,Facebook,#PublicTransit #FareChange,67,196,2023,1,Musanze
+424,424,Great idea for long-distance commuters.,Positive,2023-01-21 20:18:00,User424,Facebook,#BusLife #DistanceFareModel,64,193,2023,1,Gasabo
+425,425,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-30 06:41:00,User425,Twitter,#DistanceFare #RwandaTransport,99,68,2023,1,Rubavu
+426,426,Confusing fares! Miss the old days.,Neutral,2023-01-02 10:01:00,User426,Instagram,#PublicTransit #FareChange,99,118,2023,1,Musanze
+427,427,Fare system needs better explanation.,Negative,2023-01-03 18:26:00,User427,Twitter,#CityTransit #RwandaMoves,71,130,2023,1,Rusizi
+428,428,I’m not sure how I feel about the fare change.,Negative,2023-01-22 19:10:00,User428,Facebook,#BusLife #DistanceFareModel,32,42,2023,1,Huye
+429,429,Fare system needs better explanation.,Neutral,2023-01-19 06:40:00,User429,Facebook,#CommuteStories #Transport,18,190,2023,1,Huye
+430,430,Confusing fares! Miss the old days.,Neutral,2023-01-20 09:36:00,User430,Twitter,#CityTransit #RwandaMoves,21,159,2023,1,Ngoma
+431,431,Enjoying my commute again!,Positive,2023-01-05 21:55:00,User431,Instagram,#CityTransit #RwandaMoves,10,30,2023,1,Gasabo
+432,432,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-23 07:30:00,User432,Instagram,#DistanceFare #RwandaTransport,67,79,2023,1,Nyarugenge
+433,433,Enjoying my commute again!,Neutral,2023-01-21 04:29:00,User433,Instagram,#CommuteStories #Transport,10,121,2023,1,Gasabo
+434,434,Confusing fares! Miss the old days.,Negative,2023-01-04 08:16:00,User434,Facebook,#BusLife #DistanceFareModel,43,13,2023,1,Musanze
+435,435,"Spending less on short trips, finally!",Neutral,2023-01-04 16:14:00,User435,Instagram,#PublicTransit #FareChange,57,103,2023,1,Musanze
+436,436,I’m not sure how I feel about the fare change.,Negative,2023-01-15 15:49:00,User436,Instagram,#CityTransit #RwandaMoves,98,84,2023,1,Musanze
+437,437,Fare system needs better explanation.,Neutral,2023-01-28 16:25:00,User437,Twitter,#DistanceFare #RwandaTransport,10,199,2023,1,Rwamagana
+438,438,Why does my daily route cost more now?,Positive,2023-01-07 18:01:00,User438,Twitter,#DistanceFare #RwandaTransport,25,71,2023,1,Rusizi
+439,439,New fare structure is a relief for some routes.,Negative,2023-01-03 23:44:00,User439,Twitter,#DistanceFare #RwandaTransport,70,103,2023,1,Nyarugenge
+440,440,Fare system needs better explanation.,Positive,2023-01-06 17:50:00,User440,Twitter,#CommuteStories #Transport,73,104,2023,1,Nyarugenge
+441,441,"Spending less on short trips, finally!",Neutral,2023-01-13 12:23:00,User441,Facebook,#PublicTransit #FareChange,72,161,2023,1,Kicukiro
+442,442,I’m not sure how I feel about the fare change.,Negative,2023-01-29 09:55:00,User442,Instagram,#BusLife #DistanceFareModel,78,64,2023,1,Gasabo
+443,443,New fare structure is a relief for some routes.,Negative,2023-01-29 19:29:00,User443,Facebook,#CityTransit #RwandaMoves,31,146,2023,1,Rusizi
+444,444,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-27 15:22:00,User444,Instagram,#DistanceFare #RwandaTransport,76,140,2023,1,Musanze
+445,445,Confusing fares! Miss the old days.,Positive,2023-01-25 22:57:00,User445,Facebook,#PublicTransit #FareChange,85,40,2023,1,Rubavu
+446,446,Confusing fares! Miss the old days.,Neutral,2023-01-15 19:11:00,User446,Instagram,#PublicTransit #FareChange,35,49,2023,1,Gasabo
+447,447,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-18 08:02:00,User447,Instagram,#KigaliCommute #BusTalk,25,45,2023,1,Rwamagana
+448,448,New fare structure is a relief for some routes.,Negative,2023-01-28 04:30:00,User448,Instagram,#DistanceFare #RwandaTransport,60,161,2023,1,Nyarugenge
+449,449,Enjoying my commute again!,Positive,2023-01-25 03:30:00,User449,Facebook,#CommuteStories #Transport,95,15,2023,1,Huye
+450,450,I’m not sure how I feel about the fare change.,Negative,2023-01-14 10:06:00,User450,Twitter,#PublicTransit #FareChange,66,75,2023,1,Huye
+451,451,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-21 15:34:00,User451,Twitter,#BusLife #DistanceFareModel,38,84,2023,1,Rusizi
+452,452,New fare structure is a relief for some routes.,Neutral,2023-01-24 00:11:00,User452,Facebook,#KigaliCommute #BusTalk,87,13,2023,1,Ngoma
+453,453,Great idea for long-distance commuters.,Positive,2023-01-28 13:17:00,User453,Instagram,#PublicTransit #FareChange,78,88,2023,1,Nyarugenge
+454,454,Fare system needs better explanation.,Positive,2023-01-20 13:53:00,User454,Instagram,#DistanceFare #RwandaTransport,56,143,2023,1,Gasabo
+455,455,"Spending less on short trips, finally!",Positive,2023-01-05 12:19:00,User455,Facebook,#DistanceFare #RwandaTransport,71,127,2023,1,Ngoma
+456,456,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-06 04:58:00,User456,Twitter,#PublicTransit #FareChange,78,122,2023,1,Rwamagana
+457,457,"Spending less on short trips, finally!",Neutral,2023-01-30 19:07:00,User457,Twitter,#BusLife #DistanceFareModel,85,103,2023,1,Nyarugenge
+458,458,Enjoying my commute again!,Negative,2023-01-30 14:58:00,User458,Instagram,#KigaliCommute #BusTalk,25,188,2023,1,Kicukiro
+459,459,Enjoying my commute again!,Negative,2023-01-26 02:12:00,User459,Twitter,#DistanceFare #RwandaTransport,99,71,2023,1,Rubavu
+460,460,Great idea for long-distance commuters.,Negative,2023-01-10 18:51:00,User460,Twitter,#KigaliCommute #BusTalk,99,194,2023,1,Nyarugenge
+461,461,Confusing fares! Miss the old days.,Neutral,2023-01-20 13:45:00,User461,Twitter,#CommuteStories #Transport,57,88,2023,1,Huye
+462,462,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-21 13:13:00,User462,Instagram,#PublicTransit #FareChange,94,145,2023,1,Kicukiro
+463,463,I’m not sure how I feel about the fare change.,Positive,2023-01-11 09:34:00,User463,Twitter,#DistanceFare #RwandaTransport,48,35,2023,1,Musanze
+464,464,Confusing fares! Miss the old days.,Neutral,2023-01-19 19:59:00,User464,Instagram,#CommuteStories #Transport,42,188,2023,1,Gasabo
+465,465,New fare structure is a relief for some routes.,Negative,2023-01-16 10:12:00,User465,Facebook,#KigaliCommute #BusTalk,32,182,2023,1,Ngoma
+466,466,Confusing fares! Miss the old days.,Neutral,2023-01-21 15:20:00,User466,Facebook,#CommuteStories #Transport,19,53,2023,1,Kicukiro
+467,467,I’m not sure how I feel about the fare change.,Negative,2023-01-19 03:31:00,User467,Instagram,#BusLife #DistanceFareModel,78,142,2023,1,Huye
+468,468,Fare system needs better explanation.,Neutral,2023-01-19 22:22:00,User468,Twitter,#CityTransit #RwandaMoves,43,79,2023,1,Musanze
+469,469,Enjoying my commute again!,Neutral,2023-01-05 07:51:00,User469,Facebook,#BusLife #DistanceFareModel,61,163,2023,1,Rwamagana
+470,470,Fare system needs better explanation.,Negative,2023-01-15 05:23:00,User470,Instagram,#KigaliCommute #BusTalk,19,127,2023,1,Rubavu
+471,471,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-20 10:08:00,User471,Twitter,#BusLife #DistanceFareModel,28,77,2023,1,Musanze
+472,472,Confusing fares! Miss the old days.,Neutral,2023-01-15 05:21:00,User472,Facebook,#DistanceFare #RwandaTransport,67,28,2023,1,Kicukiro
+473,473,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-31 06:28:00,User473,Instagram,#KigaliCommute #BusTalk,10,29,2023,1,Gasabo
+474,474,Fare system needs better explanation.,Positive,2023-01-12 14:24:00,User474,Twitter,#BusLife #DistanceFareModel,78,122,2023,1,Rwamagana
+475,475,Enjoying my commute again!,Negative,2023-01-18 00:50:00,User475,Twitter,#PublicTransit #FareChange,13,149,2023,1,Rubavu
+476,476,Why does my daily route cost more now?,Positive,2023-01-07 22:43:00,User476,Instagram,#PublicTransit #FareChange,25,56,2023,1,Nyarugenge
+477,477,Great idea for long-distance commuters.,Neutral,2023-01-22 14:01:00,User477,Twitter,#BusLife #DistanceFareModel,33,10,2023,1,Gasabo
+478,478,Traveling from Nyamirambo to town is cheaper now.,Negative,2023-01-04 01:19:00,User478,Facebook,#DistanceFare #RwandaTransport,89,99,2023,1,Musanze
+479,479,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-05 03:38:00,User479,Instagram,#DistanceFare #RwandaTransport,11,151,2023,1,Huye
+480,480,Why does my daily route cost more now?,Negative,2023-01-04 21:14:00,User480,Twitter,#CommuteStories #Transport,41,73,2023,1,Gasabo
+481,481,New fare structure is a relief for some routes.,Neutral,2023-01-05 05:49:00,User481,Twitter,#DistanceFare #RwandaTransport,93,47,2023,1,Rubavu
+482,482,New fare structure is a relief for some routes.,Positive,2023-01-20 15:43:00,User482,Twitter,#KigaliCommute #BusTalk,33,46,2023,1,Musanze
+483,483,Fare system needs better explanation.,Positive,2023-01-05 09:28:00,User483,Twitter,#PublicTransit #FareChange,21,135,2023,1,Rubavu
+484,484,Traveling from Nyamirambo to town is cheaper now.,Positive,2023-01-17 23:01:00,User484,Twitter,#KigaliCommute #BusTalk,59,148,2023,1,Nyarugenge
+485,485,Enjoying my commute again!,Negative,2023-01-06 22:07:00,User485,Instagram,#PublicTransit #FareChange,44,109,2023,1,Ngoma
+486,486,"Spending less on short trips, finally!",Negative,2023-01-26 07:42:00,User486,Facebook,#CityTransit #RwandaMoves,42,86,2023,1,Rusizi
+487,487,Fare system needs better explanation.,Negative,2023-01-03 17:30:00,User487,Facebook,#DistanceFare #RwandaTransport,42,12,2023,1,Rusizi
+488,488,Fare system needs better explanation.,Positive,2023-01-27 16:34:00,User488,Instagram,#BusLife #DistanceFareModel,70,170,2023,1,Huye
+489,489,Great idea for long-distance commuters.,Negative,2023-01-26 13:24:00,User489,Twitter,#PublicTransit #FareChange,60,143,2023,1,Rubavu
+490,490,Traveling from Nyamirambo to town is cheaper now.,Neutral,2023-01-26 13:30:00,User490,Facebook,#BusLife #DistanceFareModel,52,187,2023,1,Rwamagana
+491,491,New fare structure is a relief for some routes.,Negative,2023-01-16 00:03:00,User491,Facebook,#CityTransit #RwandaMoves,21,19,2023,1,Musanze
+492,492,New fare structure is a relief for some routes.,Positive,2023-01-31 11:49:00,User492,Facebook,#KigaliCommute #BusTalk,76,14,2023,1,Musanze
+493,493,Confusing fares! Miss the old days.,Positive,2023-01-06 13:30:00,User493,Twitter,#BusLife #DistanceFareModel,74,160,2023,1,Kicukiro
+494,494,This pricing is not fair for daily riders.,Neutral,2023-01-19 16:42:00,User494,Instagram,#PublicTransit #FareChange,42,147,2023,1,Musanze
+495,495,This pricing is not fair for daily riders.,Negative,2023-01-17 02:13:00,User495,Facebook,#CityTransit #RwandaMoves,49,181,2023,1,Gasabo
+496,496,This pricing is not fair for daily riders.,Negative,2023-01-31 06:43:00,User496,Instagram,#PublicTransit #FareChange,83,139,2023,1,Ngoma
+497,497,Great idea for long-distance commuters.,Neutral,2023-01-20 05:57:00,User497,Facebook,#CityTransit #RwandaMoves,52,22,2023,1,Huye
+498,498,Enjoying my commute again!,Neutral,2023-01-03 08:11:00,User498,Instagram,#DistanceFare #RwandaTransport,53,177,2023,1,Gasabo
+499,499,This pricing is not fair for daily riders.,Positive,2023-01-14 02:10:00,User499,Twitter,#DistanceFare #RwandaTransport,38,139,2023,1,Gasabo
